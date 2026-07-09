@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Subash Bista 👋
 
-<!--
-**warlog7997/warlog7997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Technical Lead @ [CloudRx](https://github.com/warlog7997) | Dallas, TX**
 
-Here are some ideas to get you started:
+I build AI-powered automation systems that replace expensive enterprise tools with lean, open-source Python solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I Do
+
+- **RPA & Automation** — Migrated 104 UiPath bots to open-source Python, eliminating ~$900K/yr in licensing costs
+- **AI & LLM Systems** — Building intelligent automation pipelines using large language models
+- **Full Stack Development** — Laravel, PHP, Docker, and modern web stacks
+- **Team Leadership** — Leading engineering teams to deliver scalable, cost-effective solutions
+
+---
+
+## Tech Stack
+
+**Automation & AI**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![UiPath](https://img.shields.io/badge/UiPath-FA4616?style=flat&logo=uipath&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
+
+**Web & Backend**
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+**DevOps & Infrastructure**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## highlight
+
+> Migrated **104 UiPath bots** to open-source Python automation at CloudRx,
+> cutting **~$900,000/year** in RPA licensing costs while improving reliability and maintainability.
+
+---
+
+## GitHub Stats
+
+![Subash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=warlog7997&show_icons=true&theme=dark&hide_border=true)
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subash-bista-851205165)
