@@ -17,14 +17,25 @@ I build AI-powered automation systems that replace expensive enterprise tools wi
 
 ## Featured Projects
 
-### 🤖 SIPA — AI Jira Ticket Assistant *(internal/private)*
+### 💬 SIPA — AI Jira Ticket Assistant *(internal/private)*
 > Conversational AI agent that lets non-technical business users create accurate, developer-ready Jira tickets by describing requests in plain English.
 
-- Parses **1,131 PHP files** into an AST-based vector index using Claude Haiku + Chroma
+- Parses **1,131 PHP files** into an AST-based vector index using Claude Haiku + ChromaDB
 - Dual embedding strategy: semantic search (business meaning) + raw code retrieval
 - Multi-phase conversation: routes by category → gathers context → generates structured ticket
 - Injects pharmacy business knowledge (NPI mappings, BOT descriptions, rules) into agent prompts
-- Stack: **FastAPI · Claude Sonnet · sentence-transformers · ChromaDB · PHP-Parser · Anthropic API**
+- **Stack:** FastAPI · Claude Sonnet · sentence-transformers · ChromaDB · PHP-Parser
+
+---
+
+### 💊 Sig Prediction — AI Prescription Standardization *(internal/private)*
+> RAG-powered system that converts inconsistent prescription directions (sigs) into standardized pharmacy formats using FAISS vector search + GPT-4o-mini.
+
+- Embeds **13,000+ historical prescription records** into a FAISS index for real-time similarity search
+- Retrieves top 5 similar examples and uses few-shot prompting for consistent, auditable predictions
+- Returns confidence score + matching historical records for pharmacist review
+- Deployed on **AWS AppRunner** with API key auth and CORS support
+- **Stack:** FastAPI · GPT-4o-mini · FAISS · sentence-transformers · Pandas
 
 ---
 
@@ -37,9 +48,7 @@ I build AI-powered automation systems that replace expensive enterprise tools wi
 
 - Handles PDF 1.5+ xref streams, ObjStm compressed objects, FlateDecode with PNG predictor
 - No ImageMagick, no GhostScript — just PHP 8.0+ and ext-zlib
-- Install via Composer: 
-
-
+- Install: 
 
 ### 🐳 [warlog7997/laravel-docker](https://github.com/warlog7997/laravel-docker)
 > Docker + Laravel + MySQL + Nginx setup for containerized PHP development.
