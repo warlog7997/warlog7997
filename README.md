@@ -15,6 +15,22 @@ I build AI-powered automation systems that replace expensive enterprise tools wi
 
 ---
 
+## Featured Projects
+
+### 📄 [warlog7997/pdfsplit](https://github.com/warlog7997/pdfsplit)
+> Pure PHP library for PDF splitting, page extraction, and merging — zero external dependencies.
+
+- Handles PDF 1.5+ xref streams, ObjStm compressed objects, FlateDecode with PNG predictor
+- No ImageMagick, no GhostScript — just PHP 8.0+ and ext-zlib
+- Install via Composer: 
+
+
+
+### 🐳 [warlog7997/laravel-docker](https://github.com/warlog7997/laravel-docker)
+> Docker + Laravel + MySQL + Nginx setup for containerized PHP development.
+
+---
+
 ## Tech Stack
 
 **Automation & AI**
@@ -34,7 +50,7 @@ I build AI-powered automation systems that replace expensive enterprise tools wi
 
 ---
 
-## highlight
+## Highlight
 
 > Migrated **104 UiPath bots** to open-source Python automation at CloudRx,
 > cutting **~$900,000/year** in RPA licensing costs while improving reliability and maintainability.
