@@ -39,6 +39,17 @@ I build AI-powered automation systems that replace expensive enterprise tools wi
 
 ---
 
+### 📠 Fax Automation — Prior Authorization Processing *(internal/private)*
+> Automated pipeline that ingests incoming prescription faxes, processes them through a multi-layer approach, and routes classified documents directly into patient records — zero manual intervention.
+
+- Faxes are converted to text, cleaned, and deduplicated before reaching AI — minimizing token usage and cost
+- Multi-layer processing: raw fax → OCR extraction → noise filtering → AI classification → patient matching
+- AI classifies each document as a PA approval, denial, or additional document request
+- Automatically routes documents to the correct patient record with full audit trail
+- Eliminated hours of daily manual transcription across the pharmacy team
+
+---
+
 ### 📄 [warlog7997/pdfsplit](https://github.com/warlog7997/pdfsplit)
 [![Packagist](https://img.shields.io/packagist/v/warlog7997/pdfsplit.svg?style=flat)](https://packagist.org/packages/warlog7997/pdfsplit)
 [![Downloads](https://img.shields.io/packagist/dt/warlog7997/pdfsplit.svg?style=flat)](https://packagist.org/packages/warlog7997/pdfsplit)
