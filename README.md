@@ -31,7 +31,7 @@ I build AI-powered automation systems that replace expensive enterprise tools wi
 ### 💊 Sig Prediction — AI Prescription Standardization *(internal/private)*
 > RAG-powered system that converts inconsistent prescription directions (sigs) into standardized pharmacy formats using FAISS vector search + GPT-4o-mini.
 
-- Embeds **13,000+ historical prescription records** into a FAISS index for real-time similarity search
+- Embeds **300,000+ historical prescription records** into a FAISS index for real-time similarity search
 - Retrieves top 5 similar examples and uses few-shot prompting for consistent, auditable predictions
 - Returns confidence score + matching historical records for pharmacist review
 - Deployed on **AWS AppRunner** with API key auth and CORS support
