@@ -18,6 +18,10 @@ I build AI-powered automation systems that replace expensive enterprise tools wi
 ## Featured Projects
 
 ### 📄 [warlog7997/pdfsplit](https://github.com/warlog7997/pdfsplit)
+[![Packagist](https://img.shields.io/packagist/v/warlog7997/pdfsplit.svg?style=flat)](https://packagist.org/packages/warlog7997/pdfsplit)
+[![Downloads](https://img.shields.io/packagist/dt/warlog7997/pdfsplit.svg?style=flat)](https://packagist.org/packages/warlog7997/pdfsplit)
+[![License](https://img.shields.io/packagist/l/warlog7997/pdfsplit.svg?style=flat)](https://packagist.org/packages/warlog7997/pdfsplit)
+
 > Pure PHP library for PDF splitting, page extraction, and merging — zero external dependencies.
 
 - Handles PDF 1.5+ xref streams, ObjStm compressed objects, FlateDecode with PNG predictor
@@ -66,3 +70,4 @@ I build AI-powered automation systems that replace expensive enterprise tools wi
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subash-bista-851205165)
+[![Packagist](https://img.shields.io/badge/Packagist-F28D1A?style=flat&logo=packagist&logoColor=white)](https://packagist.org/packages/warlog7997/pdfsplit)
