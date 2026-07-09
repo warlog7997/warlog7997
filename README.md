@@ -17,6 +17,17 @@ I build AI-powered automation systems that replace expensive enterprise tools wi
 
 ## Featured Projects
 
+### 🤖 SIPA — AI Jira Ticket Assistant *(internal/private)*
+> Conversational AI agent that lets non-technical business users create accurate, developer-ready Jira tickets by describing requests in plain English.
+
+- Parses **1,131 PHP files** into an AST-based vector index using Claude Haiku + Chroma
+- Dual embedding strategy: semantic search (business meaning) + raw code retrieval
+- Multi-phase conversation: routes by category → gathers context → generates structured ticket
+- Injects pharmacy business knowledge (NPI mappings, BOT descriptions, rules) into agent prompts
+- Stack: **FastAPI · Claude Sonnet · sentence-transformers · ChromaDB · PHP-Parser · Anthropic API**
+
+---
+
 ### 📄 [warlog7997/pdfsplit](https://github.com/warlog7997/pdfsplit)
 [![Packagist](https://img.shields.io/packagist/v/warlog7997/pdfsplit.svg?style=flat)](https://packagist.org/packages/warlog7997/pdfsplit)
 [![Downloads](https://img.shields.io/packagist/dt/warlog7997/pdfsplit.svg?style=flat)](https://packagist.org/packages/warlog7997/pdfsplit)
